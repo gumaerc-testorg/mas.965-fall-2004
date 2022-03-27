@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3d72dadd-9da6-b570-efb2-25930bf507e8
 resourcetype: Document
 title: 'email: essays and sketches '
 uid: 0857bd8b-3dbf-4a7f-b57c-3ca1dfb71b84

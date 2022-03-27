@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3d72dadd-9da6-b570-efb2-25930bf507e8
 resourcetype: Document
 title: 'large-scale persistent conversations: essays and sketches'
 uid: bfc281de-38a2-2cd5-6ef9-a3507b224336

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3d72dadd-9da6-b570-efb2-25930bf507e8
 resourcetype: Document
 title: 'meaning is social networks 2: essays and sketches '
 uid: 6c2f9203-eee1-ed1a-60c7-361e61f68318

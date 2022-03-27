@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3d72dadd-9da6-b570-efb2-25930bf507e8
 resourcetype: Document
 title: final project proposal assignment
 uid: 22b0453c-ab3d-e9e4-6990-d4aafc917b77

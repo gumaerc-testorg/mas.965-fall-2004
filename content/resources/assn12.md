@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3d72dadd-9da6-b570-efb2-25930bf507e8
 resourcetype: Document
 title: embedded visualizations assignment
 uid: ff67df21-572f-5b6c-b6e0-0f3cfef26a84
