@@ -5,6 +5,7 @@ file: /courses/mas-965-social-visualization-fall-2004/1784a7a798afe47200c045ad57
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'maps and metaphors: essays and sketches '
 uid: 1784a7a7-98af-e472-00c0-45ad57dc2a5c
 ---
 Essay and diagramming assignment instructions.
-

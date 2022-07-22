@@ -5,6 +5,7 @@ file: /courses/mas-965-social-visualization-fall-2004/ff67df21572f5b6cb6e00f3cfe
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: embedded visualizations assignment
 uid: ff67df21-572f-5b6c-b6e0-0f3cfef26a84
 ---
 Essay and diagramming assignment instructions.
-

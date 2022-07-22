@@ -5,6 +5,7 @@ file: /courses/mas-965-social-visualization-fall-2004/e97e874d290e927d9ab403adab
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Readings and Resources
 uid: e97e874d-290e-927d-9ab4-03adabd4df8a
 ---
 Readings and other resources on social visualization.
-

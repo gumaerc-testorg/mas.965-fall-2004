@@ -5,6 +5,7 @@ file: /courses/mas-965-social-visualization-fall-2004/f63bd0584c289047c43a644076
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'meaning is social networks 1: essays and sketches '
 uid: f63bd058-4c28-9047-c43a-644076f5356b
 ---
 Essay and diagramming assignment instructions.
-

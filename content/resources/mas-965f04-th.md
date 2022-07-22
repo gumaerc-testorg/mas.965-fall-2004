@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: A graphic with four horizontal bands.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Seascape and Volcano (thumbnail)
 uid: 953f8d8b-22dd-1bf3-e076-9320b004aa78
 ---
 Seascape and volcano, an image from the final project of Francis Lam. (Image courtesy of Francis Lam.)
-

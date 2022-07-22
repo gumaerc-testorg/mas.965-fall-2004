@@ -5,6 +5,7 @@ file: /courses/mas-965-social-visualization-fall-2004/6e35de3a28010afd21a9ce5f33
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: data portraits
 uid: 6e35de3a-2801-0afd-21a9-ce5f332c12e0
 ---
 Essay and diagramming assignment instructions.
-

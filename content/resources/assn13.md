@@ -5,6 +5,7 @@ file: /courses/mas-965-social-visualization-fall-2004/74e5c010b07566a8283fad9f45
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final paper and project papers and presentations
 uid: 74e5c010-b075-66a8-283f-ad9f4510423e
 ---
 Instructions for final project papers and presentations.
-
