@@ -2,6 +2,7 @@
 content_type: resource
 description: Essay and diagramming assignment instructions.
 file: /courses/mas-965-social-visualization-fall-2004/0857bd8b3dbf4a7fb57c3ca1dfb71b84_assn7.pdf
+file_size: 15643
 file_type: application/pdf
 learning_resource_types:
 - Assignments
