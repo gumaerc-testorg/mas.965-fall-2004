@@ -32,13 +32,13 @@ Freeman, Lin. [Visualizing Social Networks](http://social.cs.uiuc.edu/class/cs59
 
 [September 11 Terror Network](http://www.firstmonday.org/issues/issue7_4/krebs/) and [Political Books, Polarized Readers](http://www.orgnet.com/divided.html) by [Valdis Krebs](http://www.orgnet.com/). See also these [Ryze and Blog Networks](https://www.ryze.com/index.php).
 
-[Works](http://www.albany.edu/museum/wwwmuseum/work/lombardi/) by [Mark Lombardi](http://www.wburg.com/0202/arts/lombardi.html).
+[Works](http://www.albany.edu/museum/wwwmuseum/work/lombardi/) by Mark Lombardi.
 
-The Sociable Media Group's [Social Network Fragments](http://smg.media.mit.edu/projects/SocialNetworkFragments/implementation/layout/).   
-  
+The Sociable Media Group's [Social Network Fragments](http://smg.media.mit.edu/projects/SocialNetworkFragments/implementation/layout/). 
+
 *Possibly Useful Software*
 
-Here is a \[list of open source graphing software\]([https://inomics.com/insight/best-open-source-software-for-graphing-and-plotting-47723](https://inomics.com/insight/best-open-source-software-for-graphing-and-plotting-47723)  
+Here is a \[list of open source graphing software\]([https://inomics.com/insight/best-open-source-software-for-graphing-and-plotting-47723](https://inomics.com/insight/best-open-source-software-for-graphing-and-plotting-47723)      
 ), for those of you who wish to try computational sketching. There are some nice examples with [TouchGraph](http://www.touchgraph.com/index.html), among others.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -53,10 +53,10 @@ Tufte, Edward R. *Envisioning Information*. Cheshire, CT: Graphics Press. 1 May 
 
 On color: Jacobsen, and Bender. "[Color as a Determined Communication](http://portal.acm.org/citation.cfm?id=243519.243536)."
 
-Some quick readings on gestalt perception: David Chandler's page on [Gestalt Principles](https://web.archive.org/web/20200331223826/http://facweb.cs.depaul.edu/sgrais/gestalt_principles.htm) and this one by Carlo Pedroza.   
-  
-*Readings on Social Networks*   
-   
+Some quick readings on gestalt perception: David Chandler's page on [Gestalt Principles](https://web.archive.org/web/20200331223826/http://facweb.cs.depaul.edu/sgrais/gestalt_principles.htm) and this one by Carlo Pedroza. 
+
+*Readings on Social Networks*      
+       
 Granovetter. "The Strength of Weak Ties." ([PDF - 2.1 MB](http://smg.media.mit.edu/library/Granovetter.WeakTies.pdf))
 
 Feld, Scott. "The Focused Organization of Social Ties." ([PDF - 2.0 MB](http://smg.media.mit.edu/library/Feld.SocialTies.pdf))
@@ -71,7 +71,7 @@ Ravid, and Rafaeli. [Asynchronous Discussion Groups as Small World and Scale Fre
 Basic Design Elements: Using Color, Form and Line
 {{< tdclose >}}{{< tdopen >}}
 
-*Readings* 
+*Readings*
 
 Small, David. "[Navigating Large Bodies of Text](http://portal.acm.org/citation.cfm?id=243535&dl=&coll=)." *IBM Systems Journal* 35, no. 3 and 4 (1996).
 
@@ -101,7 +101,7 @@ The Social Structure of Conversations
 Time, Narrative and History
 {{< tdclose >}}{{< tdopen >}}
 
-*Readings* 
+*Readings*
 
 Donath, Judith. [A Semantic Approach to Visualizing Online Conversation](http://doi.acm.org/10.1145/505248.505271).
 
@@ -121,13 +121,13 @@ Sack, Warren. [Conversation Map](https://www.tandfonline.com/doi/abs/10.1080/074
 Inhabited Visualizations
 {{< tdclose >}}{{< tdopen >}}
 
-*Readings* 
+*Readings*
 
 Donath, Judith. Visualizing Email. ([PDF](http://smg.media.mit.edu/papers/Donath/EmailArchives.draft.pdf))
 
 Duchenaut, and Bellotti. [Email as Habitat](http://doi.acm.org/10.1145/382899.383305).
 
-[Remail Project at IBM](http://domino.watson.ibm.com/library/cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/19545e80f6d43f1685256dd3005ef422?OpenDocument).
+[Remail Project at IBM](https://dominoweb.draco.res.ibm.com/19545e80f6d43f1685256dd3005ef422.html).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -135,12 +135,12 @@ Duchenaut, and Bellotti. [Email as Habitat](http://doi.acm.org/10.1145/382899.38
 Visualizing Email
 {{< tdclose >}}{{< tdopen >}}
 
-*Required Readings* 
+*Required Readings*
 
 Brilliant, Richard. Chapter 1 in *Portraiture*. Chicago, IL: Reaktion Books, 1 August 2004. ISBN: 9780948462191.
 
-[Id/Entity: Portraits in the 21st Century](http://smg.media.mit.edu/identity/portraits_files/frame.htm) - also DVD.   
-  
+[Id/Entity: Portraits in the 21st Century](http://smg.media.mit.edu/identity/portraits_files/frame.htm) - also DVD. 
+
 *Supplementary Readings*
 
 From [Paradise Now Exhibit Catalog](http://web.archive.org/web/20090207084457/http://www.genomic-art.com/), works by Nancy Burson, Kevin Clarke, Larry Miller, Steve Miller, and G Schneider.
@@ -169,7 +169,7 @@ Data Portraits
 Final Project Proposal Presentations
 {{< tdclose >}}{{< tdopen >}}
 
-*Readings* 
+*Readings*
 
 Azar, Beth. [What is in a face](http://ivizlab.sfu.ca/arya/Papers/Others/Emotions/Whats%20in%20a%20Face.pdf)?
 
@@ -205,9 +205,9 @@ Reckimoto, J., Y. Ayatsuka, and K. Hayashi. "Augmentable Reality: Situated Commu
 
 [Tejp](http://www.viktoria.se/~lalya/).
 
-*Readings on Ambient Displays*   
-  
-Redström, Johan, Tobias Skog, and Lars Hallnäs. "[Informative Art: Using Amplified Artworks as Information Displays](http://soda.swedish-ict.se/2673/)."
+*Readings on Ambient Displays*
+
+Redström, Johan, Tobias Skog, and Lars Hallnäs. "[Informative Art: Using Amplified Artworks as Information Displays](https://dl.acm.org/doi/10.1145/354666.354677)."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -237,7 +237,7 @@ Borovoy, R., F. Martin, S. Vemuri, M. Resnick, B. Silverman, and C. Hancock. "Me
 
 Donath, J. "[Visual Who](http://smg.media.mit.edu/people/Judith/VisualWho/VisualWho.html)." In *Proceedings of ACM Multimedia\`95.* San Franciso, CA: Nov. 5-9, 1995.
 
-Susani, Marco. [Mapping conversation](http://flow.doorsofperception.com/content/susani_trans.html).
+Susani, Marco. [Mapping conversation](https://web.archive.org/web/20040622225904/http://flow.doorsofperception.com/content/susani_trans.html).
 
 Minar, Nelson, and Judith Donath. "[Visualizing the crowds at a web site](https://www.researchgate.net/publication/234780216_Visualizing_the_crowds_at_a_web_site)." *CHI 1999* (short paper).
 
@@ -261,11 +261,11 @@ Sack, Warren. [Conversation Map](http://portal.acm.org/citation.cfm?id=1289640.1
 
 Komar and Melamid [Most Wanted Paintings](http://www.diacenter.org/km/index.html).
 
-[Moodstats](http://www.cubancouncil.com/work/project/moodstats).
+[Moodstats](https://web.archive.org/web/20110902112630/http://www.cubancouncil.com/work/project/moodstats).
 
 ## Related Techniques and Examples
 
-[Lumeta Web Map](http://www.lumeta.com/company/research.html) (Bill Cheswick).
+Lumeta Web Map (Bill Cheswick).
 
 [Atlas of Cyberspace](http://www.kitchin.org/atlas/).
 
