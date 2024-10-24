@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Readings and other resources on social visualization.
-file: /courses/mas-965-social-visualization-fall-2004/e97e874d290e927d9ab403adabd4df8a_readings.pdf
+file: /ol-ocw-studio-app/courses/mas-965-social-visualization-fall-2004/e97e874d290e927d9ab403adabd4df8a_readings.pdf
 file_size: 101635
 file_type: application/pdf
 learning_resource_types:
