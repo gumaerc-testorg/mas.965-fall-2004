@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for final project papers and presentations.
-file: /ol-ocw-studio-app/courses/mas-965-social-visualization-fall-2004/74e5c010b07566a8283fad9f4510423e_assn13.pdf
+file: /courses/mas-965-social-visualization-fall-2004/74e5c010b07566a8283fad9f4510423e_assn13.pdf
 file_size: 9673
 file_type: application/pdf
 learning_resource_types:

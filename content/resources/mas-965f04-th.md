@@ -2,7 +2,7 @@
 content_type: resource
 description: Seascape and volcano, an image from the final project of Francis Lam.
   (Image courtesy of Francis Lam.)
-file: /ol-ocw-studio-app/courses/mas-965-social-visualization-fall-2004/953f8d8b22dd1bf3e0769320b004aa78_mas-965f04-th.jpg
+file: /courses/mas-965-social-visualization-fall-2004/953f8d8b22dd1bf3e0769320b004aa78_mas-965f04-th.jpg
 file_size: 2582
 file_type: image/jpeg
 image_metadata:
