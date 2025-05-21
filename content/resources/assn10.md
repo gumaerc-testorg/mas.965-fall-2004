@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Essay and diagramming assignment instructions.
-file: /ol-ocw-studio-app/courses/mas-965-social-visualization-fall-2004/ca1353c37007d21ee3781b81b121ee9e_assn10.pdf
+file: /courses/mas-965-social-visualization-fall-2004/ca1353c37007d21ee3781b81b121ee9e_assn10.pdf
 file_size: 18127
 file_type: application/pdf
 learning_resource_types:
